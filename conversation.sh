@@ -1,6 +1,9 @@
 #!bin/bash
 
-echo "Trump: Hi how are you"
-echo "Musk: I am fine"
-echo "Trump: What is going on "
-echo "Musk: Nithing much"
+PERSON1= Trump
+PERSON2= Musk
+
+echo "$PERSON1: Hi how are you"
+echo "$PERSON2: I am fine"
+echo "$PERSON1: What is going on "
+echo "$PERSON2: Nithing much"
