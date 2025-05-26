@@ -1,5 +1,5 @@
 #!bin/bash
 
-movies= ("billa","ranga" "king") #size 3 #index =0 ,1 ,2
+movies= ("billa","ranga" "king") 
 
 echo "first movie: $movies[0]"
