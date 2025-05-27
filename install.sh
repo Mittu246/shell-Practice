@@ -48,5 +48,5 @@ then
    dnf install phython3 -y
    VALIDATE $? "phython3"
 else
-    echo "phython3 is already installed
+    echo "phython3 is already installed"
 fi
